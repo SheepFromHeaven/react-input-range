@@ -15,7 +15,7 @@ import { DOWN_ARROW, LEFT_ARROW, RIGHT_ARROW, UP_ARROW } from './key-codes';
  * A React component that allows users to input numeric values within a range
  * by dragging its sliders.
  */
-export class InputRange extends React.Component {
+export default class InputRange extends React.Component {
   /**
    * @ignore
    * @override

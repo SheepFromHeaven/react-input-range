@@ -1,4 +1,4 @@
-import { InputRange } from './input-range/input-range';
+import { InputRange } from './input-range';
 
 /**
  * @ignore
